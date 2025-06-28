@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+streamlit
+requests
+matplotlib
+
+pandas
+scikit-learn
+joblib
+requests
+streamlit
